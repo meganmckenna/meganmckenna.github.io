@@ -1,0 +1,13 @@
+body {background-color: #EBEFEE;}
+body{color: #524633;font-family: 'Poppins', sans-serif; font-weight: 300;}
+h1{color: #03487D;font-family: 'Gluten', sans-serif; font-weight: 400;font-size: 50px;}
+h2{color: #3099D4;font-family: 'Gluten', sans-serif; font-weight: 200; font-size: 27px;}
+div{ width: 1050px;
+    height:200;
+    border-color: 15px #D3B99C;
+    padding: 20px;
+    margin-left:150px;}
+h1{margin-left: 400px;}
+p{margin-left: 150px;}
+h2{margin-left: 150px;}
+a{margin-left: 150px;}
