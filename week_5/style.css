@@ -9,14 +9,14 @@ a{margin-left: 100px;}
 .div1 {
     float: left;
     width: 500px;
-    height:200;
+    
     border-color: 15px #D3B99C;
     padding: 20px;
     margin: 75px;
   }
 .div2 {
     width: 500px;
-    height:200;
+  
     border-color: 15px #D3B99C;
     padding: 20px;
     margin: 75px;
@@ -24,7 +24,7 @@ a{margin-left: 100px;}
   } 
 .div3 {
     width: 500px;
-    height:200;
+    
     border-color: 15px #D3B99C;
     padding: 20px;
     margin: 75px;
@@ -32,7 +32,7 @@ a{margin-left: 100px;}
   }
 .div4 {
     width: 500px;
-    height:200;
+    
     border-color: 15px #D3B99C;
     padding: 20px;
     margin:75px;
