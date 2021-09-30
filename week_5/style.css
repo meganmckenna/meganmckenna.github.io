@@ -20,7 +20,7 @@ a{margin-left: 100px;}
     border-color: 15px #D3B99C;
     padding: 20px;
     margin: 75px;
-    float: left;
+    float: right;
   } 
 .div3 {
     width: 500px;
@@ -28,7 +28,7 @@ a{margin-left: 100px;}
     border-color: 15px #D3B99C;
     padding: 20px;
     margin: 75px;
-    float: left;
+    float: right;
   }
 .div4 {
     width: 500px;
